@@ -8,5 +8,7 @@ Q. Create an Video player application by following below instructions.
 
 **-> Output :-**
 
-![image](https://github.com/Divy484/MAD_Practical-7_21012021002/assets/98522523/15d07ca0-dd7a-48b6-9c6b-fedd88711e79)
-![image](https://github.com/Divy484/MAD_Practical-7_21012021002/assets/98522523/515a69ed-e58c-483e-8143-355c175a55a4)
+![image](https://github.com/Agherasmit12/MAD_Practical-7_21012021002/assets/98636140/8149186f-13f9-423d-9178-04ce4dee7e26)
+![image](https://github.com/Agherasmit12/MAD_Practical-7_21012021002/assets/98636140/41b0e1c0-3b27-4aec-82c4-71b4716b75ed)
+
+
